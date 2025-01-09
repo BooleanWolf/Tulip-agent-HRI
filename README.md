@@ -1,6 +1,7 @@
 
 ### Running the example results in a ModuleNotFoundError
-Make sure to install the package itself `pip install -e .` \
+Make sure to install the package itself `pip install -e .` \ 
+after cloning the repo run every command while in the repo directory. \
 Then run the example with `python examples/calculator_example.py`
 
 ### To create an Agent with tools 
