@@ -3,7 +3,7 @@
 Make sure to install the package itself `pip install -e .` \
 Then run the example with `python examples/calculator_example.py`
 
-### To create a function 
+### To create an Agent with tools 
 
 To see example of how to create tools see tamims.py \
 make sure to give comments below the functions otherwise you will encounter errors. \
